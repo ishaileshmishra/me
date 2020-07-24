@@ -8,5 +8,5 @@
 
 
 <p align="center">
-  <img width="900" height="500" src="https://github.com/ishaileshmishra/me/blob/master/images/page.png">
+  <img width="900" height="480" src="https://github.com/ishaileshmishra/me/blob/master/images/page.png">
 </p>
